@@ -10,7 +10,7 @@ It contains:
 ## Installation as a Vim Plugin:
 If using Pathogen:
 
-    git submodule add git://github.com/pivotal/tmux-config.git bundle/tmux-config
+    git submodule add git://github.com/johnrlive/tmux-config.git bundle/tmux-config
     git submodule update --init
 
 ## tmux.conf Installation
